@@ -1,0 +1,16 @@
+{
+    "optical_nodes": [
+        {
+            "name": "Node-A",
+            "status": "UP"
+        },
+        {
+            "name": "Node-B",
+            "status": "DOWN"
+        },
+        {
+            "name": "Node-C",
+            "status": "DOWN"
+        }
+    ]
+}
